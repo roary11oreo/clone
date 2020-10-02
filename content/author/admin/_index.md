@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kylie L. Anglin"
+name = "Rory C Jones"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,24 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Education Policy"
+role = "PhD Student in Sociology"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
+organizations = [ { name = "Baylor University", url = "https://baylor.edu/sociology" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include the role of the state in regulating public education, using new tools to collect data on local policy variations, and improving designs for causal inference"
+bio = "My research interests include spiritual practices, image of God, and Christian higher education."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "kal3nh@virginia.edu"
+email = "rory_jones@baylor.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Education Regulation",
-  "Causal Inference",
-  "Effect Heterogeneity and Implementation",
-  "Natural Language Processing"
+  "Spiritual Practices",
+  "Religion",
+  "Image of God",
+  "Christian higher education"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,24 +35,19 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Education Policy Evaluation"
-  institution = "University of Virginia"
-  year = "2021 (expected)"
+  course = "PhD in Sociology"
+  institution = "Baylor University"
+  year = "2023 (expected)"
 
 [[education.courses]]
-  course = "Masters in Public Policy"
-  institution = "University of Virginia"
+  course = "Master of Divinity (MDiv)"
+  institution = "George W. Truett Theological Seminary"
   year = 2018
 
 [[education.courses]]
-  course = "Post-Baccalearate in Mathematics"
-  institution = "Northwestern University"
-  year = 2015
-
-[[education.courses]]
-  course = "BA in Political Science"
+  course = "BA in History and German"
   institution = "Southwestern University"
-  year = 2013
+  year = 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -67,7 +62,7 @@ interests = [
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/kylielanglin"
+  link = "https://twitter.com/rorycjones"
 
 [[social]]
   # icon = "google-scholar"
@@ -75,9 +70,9 @@ interests = [
   # @ link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/KylieLAnglin"
+ # icon = "github"
+ # icon_pack = "fab"
+ # link = "https://github.com/KylieLAnglin"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -87,9 +82,7 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-Kylie L. Anglin is a Ph.D. student in Education Policy at the University of Virginia. Her research focuses on developing and using data science approaches to examine variations in policy and intervention implementation, as well as the impact of intervention heterogeneity on student outcomes. In an article published in the Journal of Research on Educational Effectiveness, she proposed a framework for using web scraping and natural language processing techniques to collect data on district responses to state policies from online policy documents. In that article, Kylie illustrates this framework in the context of statewide education deregulation under the Texas District of Innovation statute. In her dissertation, she builds on her descriptive work surrounding the District of Innovation statute to evaluate the impact of the policy, and heterogeneous district responses, on student outcomes. 
+Rory C Jones is a Ph.D. student in Sociology at Baylor University. His research focuses on spiritual practices, image of God, and distinctives of Christian higher education. Rory's master's thesis uses data from the NSYR to find connections between adult prayer behaviors and adolescent behaviors, attitudes, and relationships. As part of Baylor's PhD program, Rory will be a teacher of record in an introductory sociology course in fall 2021.
 
-Kylie is also developing methods for using natural language processing techniques to assess treatment fidelity and replicability in intervention evaluations that take place in educational settings. She has published on methods related to causal inference, replication, and open science in Evaluation Review, Oxford Bibliography in Education, and Zeitschrift für Psychologie, and she is a regular presenter at APPAM, AEFP, and SREE. 
-
-Prior to coming to University of Virginia, Kylie earned a B.A. in Political Science from Southwestern University, a Post-Baccalaureate in Mathematics from Northwestern University, and a Masters in Public Policy from the University of Virginia. Kylie has worked as a 7th grade English teacher and as an evaluator for an after-school program.
+Prior to coming to Baylor's Sociology department, Rory earned a B.A. in History and German from Southwestern University and a Master of Divinity from George W. Truett Theological Seminary. Rory spent a year teaching English in Germany as a Fulbright Scholar.
 
